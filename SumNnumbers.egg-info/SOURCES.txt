@@ -1,0 +1,7 @@
+setup.py
+SumNnumbers/Nnaturalnumbers.py
+SumNnumbers/__init__.py
+SumNnumbers.egg-info/PKG-INFO
+SumNnumbers.egg-info/SOURCES.txt
+SumNnumbers.egg-info/dependency_links.txt
+SumNnumbers.egg-info/top_level.txt
